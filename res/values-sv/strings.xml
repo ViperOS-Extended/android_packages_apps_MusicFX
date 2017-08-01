@@ -23,6 +23,7 @@
   <string name="bass_boost_strength">Basförstärkning</string>
   <string name="virtualizer_strength">Surroundljud</string>
   <string name="setup">Konfiguration</string>
+  <string name="normal">Normal</string>
   <string name="ci_extreme">FX Booster</string>
   <string name="user">Användare</string>
   <!-- title of control panel picker dialog [CHAR LIMIT=30] -->

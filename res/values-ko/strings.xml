@@ -23,6 +23,7 @@
   <string name="bass_boost_strength">중저음 강화</string>
   <string name="virtualizer_strength">서라운드 사운드</string>
   <string name="setup">설정</string>
+  <string name="normal">일반 모드</string>
   <string name="ci_extreme">FX 부스터</string>
   <string name="user">사용자</string>
   <!-- title of control panel picker dialog [CHAR LIMIT=30] -->

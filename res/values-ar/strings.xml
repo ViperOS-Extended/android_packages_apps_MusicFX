@@ -27,6 +27,7 @@
   <string name="pr_summary">التأثيرات الإضافية لصدى الغرفة</string>
   <string name="pr_dialog_title">الإعداد المسبق للصدى</string>
   <string name="setup">الإعداد</string>
+  <string name="normal">عادي</string>
   <string name="ci_extreme">FX Booster</string>
   <string name="user">المستخدم</string>
   <!-- title of control panel picker dialog [CHAR LIMIT=30] -->

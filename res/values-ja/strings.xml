@@ -23,6 +23,7 @@
   <string name="bass_boost_strength">バスブースト</string>
   <string name="virtualizer_strength">サラウンドサウンド</string>
   <string name="setup">セットアップ</string>
+  <string name="normal">標準</string>
   <string name="ci_extreme">FXブースター</string>
   <string name="user">ユーザー</string>
   <!-- title of control panel picker dialog [CHAR LIMIT=30] -->

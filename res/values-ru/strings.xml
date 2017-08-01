@@ -21,6 +21,7 @@
   <string name="main_toggle_effects_title">Звуковые эффекты</string>
   <string name="eq_dialog_title">Эквалайзер</string>
   <string name="headset_plug">Чтобы услышать эти эффекты, подключите наушники.</string>
+  <string name="combo_device">Эффекты поддерживаются только при воспроизведении через наушники.</string>
   <string name="bass_boost_strength">Усиление басов</string>
   <string name="virtualizer_strength">Объемный звук</string>
   <string name="pr_title">Реверберация</string>
@@ -38,6 +39,15 @@
   <string name="pop">Поп</string>
   <string name="rock">Рок</string>
   <string name="ci_extreme">Усилитель FX</string>
+  <string name="acoustic">Акустика</string>
+  <string name="bass_booster">Усиление басов</string>
+  <string name="bass_reducer">Ослабление басов</string>
+  <string name="deep">Глубина</string>
+  <string name="rhythm_and_blues">R&amp;B</string>
+  <string name="small_speakers">Маленькие динамики</string>
+  <string name="treble_booster">Усиление ВЧ</string>
+  <string name="treble_reducer">Ослабление ВЧ</string>
+  <string name="vocal_booster">Усилить вокал</string>
   <string name="user">Своя настройка</string>
   <string name="none">Нет</string>
   <string name="smallroom">Маленькая комната</string>
@@ -57,10 +67,17 @@
   <string name="drawer_item_bluetooth">Bluetooth</string>
   <string name="drawer_open">Открыть панель навигации</string>
   <string name="drawer_close">Закрыть панель навигации</string>
+  <string name="current_output">Текущий вывод:</string>
   <string name="stereowide_light">Легкий</string>
   <string name="stereowide_moderate">Умеренный</string>
   <string name="stereowide_high">Сильный</string>
   <string name="stereowide_none">Нет</string>
   <string name="sw_title">Стереоуширитель</string>
   <!-- Presets -->
+  <string name="preset_menu">Пересеты</string>
+  <string name="save_preset">Сохранить пресет</string>
+  <string name="load_preset">Загрузить пресет</string>
+  <string name="new_preset">Новый пресет...</string>
+  <string name="preset_save_toast">Пресет сохранен</string>
+  <string name="preset_load_toast">Пресет загружен</string>
 </resources>

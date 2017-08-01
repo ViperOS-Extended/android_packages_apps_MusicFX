@@ -27,6 +27,7 @@
   <string name="pr_summary">Πρόσθετα εφέ αντήχησης δωματίου</string>
   <string name="pr_dialog_title">Προεπιλογή αντήχησης</string>
   <string name="setup">Ρύθμιση</string>
+  <string name="normal">Κανονικό</string>
   <string name="ci_extreme">FX Booster</string>
   <string name="user">Xρήστης</string>
   <!-- title of control panel picker dialog [CHAR LIMIT=30] -->

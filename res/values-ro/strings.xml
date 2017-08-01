@@ -23,6 +23,7 @@
   <string name="bass_boost_strength">Amplificare bas</string>
   <string name="virtualizer_strength">Sunet surround</string>
   <string name="setup">Configurați</string>
+  <string name="normal">Normal</string>
   <string name="ci_extreme">Amplificator FX</string>
   <string name="user">Utilizator</string>
   <!-- title of control panel picker dialog [CHAR LIMIT=30] -->

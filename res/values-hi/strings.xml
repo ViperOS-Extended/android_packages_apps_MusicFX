@@ -23,6 +23,7 @@
   <string name="bass_boost_strength">बेस बढ़ाएं</string>
   <string name="virtualizer_strength">सराउंड साउंड</string>
   <string name="setup">सेटअप</string>
+  <string name="normal">सामान्य</string>
   <string name="ci_extreme">FX बूस्‍टर</string>
   <string name="user">उपयोगकर्ता</string>
   <!-- title of control panel picker dialog [CHAR LIMIT=30] -->

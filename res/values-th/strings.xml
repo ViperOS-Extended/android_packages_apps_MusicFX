@@ -43,6 +43,7 @@
   <string name="bass_booster">เพิ่มเสียงเบส</string>
   <string name="bass_reducer">ลดเสียงเบส</string>
   <string name="deep">นุ่มลึก</string>
+  <string name="rhythm_and_blues">R&amp;B</string>
   <string name="small_speakers">ลำโพงเล็ก</string>
   <string name="treble_booster">เพิ่มเสียงสูง</string>
   <string name="treble_reducer">ลดเสียงสูง</string>
@@ -55,8 +56,28 @@
   <string name="mediumhall">ฮอล์ขนาดกลาง</string>
   <string name="largehall">ฮอล์ขนาดใหญ๋</string>
   <string name="plate">เวที</string>
+  <string name="eq_custom">การกำหนดเอง เลือก \"กำหนดเอง\"</string>
+  <string name="power_on_prompt">เปิดใช้งานตัวปรับแต่งเสียงก่อนที่จะกำหนดค่าอะไร</string>
   <!-- title of control panel picker dialog [CHAR LIMIT=30] -->
   <string name="picker_title">แผงควบคุมเอฟเฟ็กต์เพลง</string>
+  <string name="toggle_button_on">เปิด</string>
+  <string name="toggle_button_off">ปิด</string>
+  <string name="drawer_item_speaker">ลำโพง​</string>
+  <string name="drawer_item_headset">หูฟัง</string>
+  <string name="drawer_item_bluetooth">บลูทูธ</string>
+  <string name="drawer_open">เปิดแถบนำทาง</string>
+  <string name="drawer_close">ปิดแถบนำทาง</string>
+  <string name="current_output">ใช้ขาออกปัจจุบัน:</string>
+  <string name="stereowide_light">สว่าง</string>
+  <string name="stereowide_moderate">ปานกลาง</string>
+  <string name="stereowide_high">สูง</string>
   <string name="stereowide_none">ไม่มี</string>
+  <string name="sw_title">สเตอริโอ widener:</string>
   <!-- Presets -->
+  <string name="preset_menu">Presets</string>
+  <string name="save_preset">บันทึก Preset</string>
+  <string name="load_preset">โหลด Preset</string>
+  <string name="new_preset">สร้าง Preset ใหม่</string>
+  <string name="preset_save_toast">บันทึก Preset แล้ว</string>
+  <string name="preset_load_toast">ดึงข้อมูล Preset</string>
 </resources>

@@ -19,6 +19,7 @@
   <!-- ControlPanelMusic strings -->
   <string name="no_effects">Efek tidak tersedia.</string>
   <string name="main_toggle_effects_title">Efek audio</string>
+  <string name="eq_dialog_title">Equaliser</string>
   <string name="headset_plug">Pasang headphone untuk efek ini.</string>
   <string name="combo_device">Efek hanya didukung pada headphone.</string>
   <string name="bass_boost_strength">Peningkatan bass</string>

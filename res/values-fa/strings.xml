@@ -25,8 +25,13 @@
   <string name="bass_boost_strength">تقویت باس</string>
   <string name="virtualizer_strength">صدای فراگیر</string>
   <string name="pr_title">مرورb:</string>
+  <string name="pr_summary">افکت اضافی اتاق بازتاب</string>
+  <string name="pr_dialog_title">تنظیم پیش فرض</string>
   <string name="setup">تنظیم</string>
+  <string name="normal">معمولی</string>
   <string name="classical">کلاسیک</string>
+  <string name="dance">دنس</string>
+  <string name="flat">صاف</string>
   <string name="folk">فولکلور</string>
   <string name="heavy_metal">هوی متال</string>
   <string name="hip_hop">هیپ هاپ</string>
@@ -37,7 +42,22 @@
   <string name="acoustic">آکوستیک</string>
   <string name="bass_booster">تقویت کننده باس</string>
   <string name="bass_reducer">کاهنده باس</string>
+  <string name="deep">عمیق</string>
+  <string name="rhythm_and_blues">R&amp;B</string>
+  <string name="small_speakers">بلندگوهای کوچک</string>
+  <string name="treble_booster">تقویت کننده صدای زیر</string>
+  <string name="treble_reducer">کاهنده صدای زیر</string>
+  <string name="vocal_booster">تقویت کننده آواز</string>
   <string name="user">کاربر</string>
+  <string name="none">هیچ کدام</string>
+  <string name="smallroom">اتاق کوچک</string>
+  <string name="mediumroom">اتاق متوسط</string>
+  <string name="largeroom">اتاق بزرگ</string>
+  <string name="mediumhall">سالن متوسط</string>
+  <string name="largehall">سالن بزرگ</string>
+  <string name="plate">صفحه</string>
+  <string name="eq_custom">برای سفارشی کردن، \"سفارشی\" را انتخاب کنید</string>
+  <string name="power_on_prompt">قبل از اینکه چیزی را پیکربندی کنید، اکولایزر را فعال کنید</string>
   <!-- title of control panel picker dialog [CHAR LIMIT=30] -->
   <string name="picker_title">مرکز کنترل جلوه‌های موسیقی</string>
   <string name="toggle_button_on">روشن</string>
@@ -45,8 +65,19 @@
   <string name="drawer_item_speaker">بلندگو</string>
   <string name="drawer_item_headset">هدفون</string>
   <string name="drawer_item_bluetooth">بلوتوث</string>
+  <string name="drawer_open">باز کردن کشوی ناوبری</string>
+  <string name="drawer_close">بستن کشوی ناوبری</string>
+  <string name="current_output">خروجی فعلی:</string>
   <string name="stereowide_light">کم</string>
   <string name="stereowide_moderate">متوسط</string>
   <string name="stereowide_high">زیاد</string>
+  <string name="stereowide_none">هیچ کدام</string>
+  <string name="sw_title">گسترش دهنده استریو:</string>
   <!-- Presets -->
+  <string name="preset_menu">از پیش تعیین شده</string>
+  <string name="save_preset">ذخیره از پیش تعیین شده</string>
+  <string name="load_preset">بارگذاری از پیش تعیین شده</string>
+  <string name="new_preset">پیش فرض جدید...</string>
+  <string name="preset_save_toast">الگو ذخیره شد</string>
+  <string name="preset_load_toast">پیش فرض بارگذاری شده</string>
 </resources>

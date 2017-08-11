@@ -40,13 +40,13 @@
   <string name="rock">Рок</string>
   <string name="ci_extreme">Усилитель FX</string>
   <string name="acoustic">Акустика</string>
-  <string name="bass_booster">Усиление басов</string>
-  <string name="bass_reducer">Ослабление басов</string>
+  <string name="bass_booster">Повысить НЧ</string>
+  <string name="bass_reducer">Понизить НЧ</string>
   <string name="deep">Глубина</string>
   <string name="rhythm_and_blues">R&amp;B</string>
   <string name="small_speakers">Маленькие динамики</string>
   <string name="treble_booster">Усиление ВЧ</string>
-  <string name="treble_reducer">Ослабление ВЧ</string>
+  <string name="treble_reducer">Понизить ВЧ</string>
   <string name="vocal_booster">Усилить вокал</string>
   <string name="user">Своя настройка</string>
   <string name="none">Нет</string>
